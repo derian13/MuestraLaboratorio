@@ -1,0 +1,10 @@
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\MuestradeLaboratorio.dll.config
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\MuestradeLaboratorio.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\MuestradeLaboratorio.pdb
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\EntityFramework.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\EntityFramework.xml
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\obj\Debug\Acceso a Datos.csprojResolveAssemblyReference.cache
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\obj\Debug\MuestradeLaboratorio.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\MuestradeLaboratorio\obj\Debug\MuestradeLaboratorio.pdb

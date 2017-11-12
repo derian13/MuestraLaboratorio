@@ -1,0 +1,5 @@
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\LogicadeNegocioApi\bin\Debug\LogicadeNegocioApi.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\LogicadeNegocioApi\bin\Debug\LogicadeNegocioApi.pdb
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\LogicadeNegocioApi\obj\Debug\LogicadeNegocioApi.csprojResolveAssemblyReference.cache
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\LogicadeNegocioApi\obj\Debug\LogicadeNegocioApi.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\MuestradeLaboratorio\LogicadeNegocioApi\obj\Debug\LogicadeNegocioApi.pdb
